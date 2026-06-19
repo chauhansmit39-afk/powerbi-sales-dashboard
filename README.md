@@ -75,6 +75,16 @@ Users can filter the dashboard by:
 
 This dashboard transforms raw sales data into actionable business insights, enabling better decision-making regarding product performance, sales trends, and customer distribution.
 
+## Dashboard Preview
+
+### Main Dashboard
+![Main Dashboard](dashboard-home.png)
+
+### Sales Analysis
+![Sales Analysis](sale.png)
+
+### Key Influencers & Narrative
+![Key Influencers](key-influancers_&_Narrative.png)
 ## Project Structure
 
 ```text
