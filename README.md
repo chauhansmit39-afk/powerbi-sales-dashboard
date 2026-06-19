@@ -80,6 +80,9 @@ This dashboard transforms raw sales data into actionable business insights, enab
 ### Main Dashboard
 ![Main Dashboard](dashboard-home.png)
 
+### Tooltip
+![Tooltip](Tooltip.png)
+
 ### Sales Analysis
 ![Sales Analysis](sale.png)
 
