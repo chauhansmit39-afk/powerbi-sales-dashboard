@@ -74,3 +74,20 @@ Users can filter the dashboard by:
 ## Project Outcome
 
 This dashboard transforms raw sales data into actionable business insights, enabling better decision-making regarding product performance, sales trends, and customer distribution.
+
+powerbi-sales-dashboard/
+│
+├── classicmodels_dashboard.pbix
+├── dashboard-home.png
+├── dashboard.pdf
+├── README.md
+│
+└── dataset/
+    ├── customers.xlsx
+    ├── employees.xlsx
+    ├── offices.xlsx
+    ├── orders.xlsx
+    ├── order_details.xlsx
+    ├── payments.xlsx
+    ├── productlines.xlsx
+    └── products.xlsx
